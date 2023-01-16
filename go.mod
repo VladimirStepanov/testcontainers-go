@@ -20,8 +20,8 @@ require (
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20211108170745-6635138e15ea // indirect
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	gotest.tools/gotestsum v1.7.0
-	gotest.tools/v3 v3.2.0
+	gotest.tools/gotestsum v1.9.0
+	gotest.tools/v3 v3.3.0
 )
